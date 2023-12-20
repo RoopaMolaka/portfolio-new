@@ -1,0 +1,89 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#main-nav{
+    background-color: black;
+    padding: 20px;
+    font-size: large;
+     
+}
+#name a{
+    color: white ;
+
+}
+
+#navbarSupportedContent a{
+    color: white;
+}
+
+
+ .custom-col{
+    margin-top: 25%;
+ }
+ i{
+    color: black;
+ }
+ 
+ 
+ .img-hero{
+    height: auto;
+ }
+ .spacing{
+margin-top: 10%;
+ }
+ .card-icon{
+    font-size: 3rem;
+
+ }
+ .block{
+height: .3rem;
+width: 6rem;
+background-color: black;
+margin-right:auto ;
+margin-left: auto;
+margin-bottom: 2rem;
+opacity: 0.5;
+ }
+ #Services{
+    margin-bottom: 10%;
+  height: auto;
+ }
+ .progress{
+    margin: 10px 0px;
+ }
+ .p-div{
+    width:50% ;
+    margin-right: 50px;
+    margin-bottom: 5%;
+    
+ }
+ #col-style{
+   border: 1px solid black;
+   border-radius: 10px;
+   padding: 2%;
+   
+
+ }
+ #icon{
+   font-size: 40px;
+ }
+ #icons{
+   font-size: 20px;
+   color: white;
+ }
+ 
+ #img-sm{
+   border:1px solid black;
+   height: 80px;
+   width: 80px;
+   margin-top: 20px;
+   
+
+ }
+ #f-s{
+border: 1px white solid;
+ }
+ #img-style{
+  width: 100%;
+ }
